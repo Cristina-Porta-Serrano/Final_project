@@ -72,7 +72,7 @@ We are going to take the **vei (volcanic explosivity index)** as the target vari
 
 We have used Pycaret library to decide which model will have the best performance in our dataset, finding that the Extra Trees classifier was the best. We have tried to improve it using different feature engineering techniques, as Robust Scaler and Borderline SMOTE. The results of the f1_score of the best model have been validated using Cross Validation. A result of 84'65% has been achieved with the Cross Validation approach using Extra Trees classifier with hyperparameter tunning. A table with the results has been created:
 
-![taula F1 score](Results.PNG)
+![taula F1 score](Volcanos/Results.PNG)
 
 ## Conclusions
 
