@@ -26,7 +26,7 @@ These are the features of each dataset:
 - area_of_activity: area affected by the eruption.
 - vei: volcanic explosivity index. It is a relative measure of the explosiveness of volcanic eruptions. Volume of products, eruption cloud height, and qualitative observations (using terms ranging from "gentle" to "mega-colossal") are used to determine the explosivity value. The scale is open-ended with the largest eruptions in history given a magnitude of 8. A value of 0 is given for non-explosive eruptions, and 8 representing a mega-colossal explosive eruption. The scale is logarithmic, with the exception of between VEI-0, VEI-1 and VEI-2.
 
-![taula VEI](Vei.PNG)
+![taula VEI](Volcanos\Vei.PNG)
 
 - start_year: year in which the eruption started.
 - start_month: month in which the eruption started.
